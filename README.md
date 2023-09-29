@@ -40,6 +40,9 @@ This project will help us gain insights into how crime rates change with respect
 
 **Note:** You can make this project more specific, such as focusing on a particular type of crime or specific regions. You can tailor the project scope and analysis methods to your needs and interests.
 
+
+## Organizer
+### This project is organized by **Zero2Heros** Data Analyst / Data Science admin Yusuf Bayrak.
 ---
 
 
@@ -83,3 +86,6 @@ Dieses Projekt zielt darauf ab, die Kriminalstatistik für das Jahr 2021 auf der
 Dieses Projekt wird uns Einblicke geben, wie sich die Kriminalitätsraten in Bezug auf Faktoren wie Alter, Geschlecht, Region und Verbrechensarten ändern. Diese Informationen können zu einem besseren Verständnis und zur Gestaltung von öffentlichen Politiken und Sicherheitsmaßnahmen beitragen.
 
 **Hinweis:** Sie können dieses Projekt genauer gestalten, indem Sie sich beispielsweise auf einen bestimmten Verbrechens typus oder bestimmte Regionen konzentrieren. Sie können den Projektrahmen und die Analysemethoden Ihren Bedürfnissen und Interessen anpassen.
+
+## Organisator
+### Dieses Projekt wird von **Zero2Heros** Data Analyst / Data Science admin Yusuf Bayrak organisiert.
